@@ -1,4 +1,4 @@
-AG News Classification
+# AG News Classification
 
 A text-classification project that assigns news articles to one of four topics: **Sci/Tech**, **Business**, **Sports**, or **World**. The repository includes a Jupyter notebook and train/test CSV files.
 
